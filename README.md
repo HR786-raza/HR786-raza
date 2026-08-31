@@ -1,5 +1,6 @@
 ## Hi there 👋
 I am Hassan Raza
+I am a Web Developer and Data Scientist
 
 <!--
 **HR786-raza/HR786-raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
